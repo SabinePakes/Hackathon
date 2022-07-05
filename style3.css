@@ -1,0 +1,20 @@
+body {
+  background-color: ghostwhite;
+}
+
+h1 {
+  color: darkslategrey;
+}
+p {
+  color: darkslategrey;
+  font-size: medium;
+}
+.button {
+  color: darkslategrey;
+  display: grid;
+  padding-left: 10px;
+  margin: 20px;
+}
+.form-group {
+  display: block;
+}
